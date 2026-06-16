@@ -1,5 +1,8 @@
 # Personal Finance Tracker Dashboard
 
+#Developed by NIKHIL KUMAR SAHU
+
+
 ## Overview
 A dashboard built using Python, Pandas, Matplotlib and Streamlit to track expenses and calculate monthly savings.
 
@@ -19,3 +22,7 @@ A dashboard built using Python, Pandas, Matplotlib and Streamlit to track expens
 ## Run Project
 
 streamlit run app.py
+
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
